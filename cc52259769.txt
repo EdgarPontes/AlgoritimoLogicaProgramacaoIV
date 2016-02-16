@@ -1,0 +1,24 @@
+DROP DATABASE cadastroCervejaria;
+CREATE DATABASE cadastroCervejaria;
+
+create table Pessoa (
+  pessoaId BIGINT NOT NULL AUTO_INCREMENT,
+  nome VARCHAR(255),
+  cpf VARCHAR(20),
+  rg VARCHAR(12),
+  sexo CHAR(1),
+  endereco VARCHAR(255),
+  cidade VARCHAR(50),
+  estado VARCHAR(30),
+  dataNascimento DATE,
+  primary key (pessoaId)
+);
+create table Usuario (
+usuarioId BIGINT NOT NULL AUTO_INCREMENT,
+usuario VARCHAR(255),
+senha VARCHAR(8),
+PRIMARY KEY (usuarioId)
+);
+
+SELECT * FROM Pessoa;
+SELECT * FROM Usuario;
