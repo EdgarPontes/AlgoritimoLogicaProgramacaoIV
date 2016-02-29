@@ -6,13 +6,13 @@ import java.io.FileReader;
 
 public class cc52259769 {
 
-	String linha = " ";
-	int qtde;
+	private String linha = " ";
+	private int qtde;
 
 	public void leitura() throws IOException {
 
 		BufferedReader leitura = new BufferedReader(
-				new FileReader("/home/alexandre/Desktop/arquivo/cc52259769.txt"));
+				new FileReader("/media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/testeLaboratorio/logHorm"));
 
 		while (true) {
 			if (getLinha() == " ") {
