@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="org.eclipse.ui.internal.dialogs.WorkbenchEditorsDialog">
+		<item value="0" key="sort"/>
+		<item value="false" key="allPersp"/>
+		<list key="bounds">
+			<item value="65"/>
+			<item value="24"/>
+			<item value="1301"/>
+			<item value="744"/>
+		</list>
+		<list key="columns">
+			<item value="423"/>
+			<item value="846"/>
+		</list>
+	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="-1" key="dialogWidth"/>
 		<item value="-1" key="dialogHeight"/>
@@ -11,6 +25,10 @@
 		</list>
 		<list key="textEntries">
 		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="10" key="DIALOG_Y_ORIGIN"/>
+		<item value="333" key="DIALOG_X_ORIGIN"/>
 	</section>
 	<section name="ImportExportAction">
 	</section>
