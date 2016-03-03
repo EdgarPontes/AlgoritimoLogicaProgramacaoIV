@@ -54,7 +54,7 @@ class lerArquivo {
 		print.println(this.uniao);
 		print.println(this.interseccao);
 		print.println(this.subtracao);
-		print.print(this.cardinalidade);
+		print.print(cardinalidade);
 		print.close();
 
 	}

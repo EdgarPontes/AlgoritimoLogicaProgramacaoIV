@@ -23,15 +23,15 @@ public class Cc52259769 {
 }
 
 class lerArquivo {
-	public String uniao = "";
-	public String interseccao = "";
-	public String subtracao = "";
-	public String cardinalidade = "";
+	public String uniao;
+	public String interseccao;
+	public String subtracao;
+	public String cardinalidade;
 
 	public void lendoArquivo() throws IOException {
 
 		BufferedReader ler = new BufferedReader(
-				new FileReader("/media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/ep2/entrada1"));
+				new FileReader("/media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/ep2/entrada"));
 		String linha;
 		while ((linha = ler.readLine()) != null) {
 			if (linha.contains("u")) {
@@ -51,10 +51,10 @@ class lerArquivo {
 		ler.close();
 		PrintWriter print = new PrintWriter(
 				new FileWriter("/media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/ep2/RetornoOperacao"));
-		print.println(this.uniao);
-		print.println(this.interseccao);
-		print.println(this.subtracao);
-		print.print(this.cardinalidade);
+		print.println("{" + this.uniao + "}");
+		print.println("{" + this.interseccao + "}");
+		print.println("{" + this.subtracao + "}");
+		print.print(cardinalidade);
 		print.close();
 
 	}
@@ -83,15 +83,14 @@ class lerArquivo {
 		for (int i = 0; i < numeros.length; i++) {
 			cU[numeros[i]] = 1;
 		}
-		String trata = "{";
+		String trata = "";
 		for (int i = 0; i < cU.length; i++) {
-			
 			if (cU[i] > 0) {
 				trata += Integer.toString(i) + ",";
 			}
 		}
 
-		return trata + "}";
+		return trata;
 	}
 
 	public String novoConjuntoInterseccao(int[] numeros) {
@@ -108,13 +107,13 @@ class lerArquivo {
 		for (int i = 0; i < numeros.length; i++) {
 			cI[numeros[i]] += 1;
 		}
-		String trata = "{";
+		String trata = "";
 		for (int i = 0; i < cI.length; i++) {
 			if (cI[i] > 1) {
-				trata += Integer.toString(i) + ",";
+				trata += Integer.toString(cI[i]);
 			}
 		}
-		return trata + "}";
+		return trata;
 	}
 
 	public String novoConjuntoSubtracao(int[] numeros) {
