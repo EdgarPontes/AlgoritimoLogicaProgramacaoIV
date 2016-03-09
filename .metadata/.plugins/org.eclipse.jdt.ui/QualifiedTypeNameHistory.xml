@@ -12,4 +12,9 @@
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="br.com.tecnonoticias.myException.ClienteExpecial"/>
+<fullyQualifiedTypeName name="br.com.tecnonoticias.myException.Cliente"/>
+<fullyQualifiedTypeName name="br.com.tecnonoticias.myException.ClienteComum"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
 </qualifiedTypeNameHistroy>

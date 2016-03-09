@@ -1,0 +1,49 @@
+package br.com.tecnonoticias.myException;
+
+public class Cliente {
+
+	void teste1() {
+		new ClienteComum().cadastro("falha");
+	}
+	void teste2(){
+		new ClienteExpecial().cadastro("falha");
+	}
+
+	public static void main(String[] args) {
+		try {
+			new Cliente().teste1();
+		} catch (Exception e) {
+			System.out.println("Encontrado uma falha no teste1! ");
+		}
+		
+		try {
+			new Cliente().teste2();
+		} catch (Exception e) {
+			System.out.println("Encontrada uma falha no teste2! ");
+		}
+	}
+
+}
+
+class ClienteComum extends Cliente {
+	
+	public void cadastro(String falha) {
+		if (falha.equals("falha")) {
+			throw new IllegalArgumentException();
+		}else{
+			System.out.println("Passou no teste1 ");
+		}
+	}
+}
+
+class ClienteExpecial extends Cliente {
+	
+	public void cadastro(String falha) {
+		if (falha.equals("falha")) {
+			throw new IllegalArgumentException();
+		}else{
+			System.out.println("Passou no teste2 ");
+		}
+	}
+
+}
