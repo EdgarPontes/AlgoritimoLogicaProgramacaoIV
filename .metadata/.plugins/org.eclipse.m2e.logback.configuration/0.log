@@ -2940,3 +2940,51 @@ org.eclipse.core.runtime.CoreException: Launch configuration BucktSort reference
 2016-03-08 21:21:39,686 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
 2016-03-08 21:21:39,690 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-03-08 21:21:39,690 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:46:53,427 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:46:53,433 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:46:53,440 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:46:53,440 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:47:40,421 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:47:40,422 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:47:40,427 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:47:40,427 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:47:43,138 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:47:43,138 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:47:43,140 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:47:43,141 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:48:01,548 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:48:01,548 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:48:01,551 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:48:01,551 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:48:16,520 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:48:16,520 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:48:16,524 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:48:16,525 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:48:22,103 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:48:22,104 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:48:22,107 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:48:22,108 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:48:35,634 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:48:35,635 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:48:35,638 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:48:35,638 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:54:16,126 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:54:16,127 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:54:16,133 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:54:16,133 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:54:34,260 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:54:34,261 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:54:34,263 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:54:34,264 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:54:55,653 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:54:55,654 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:54:55,657 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:54:55,657 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:55:04,484 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:55:04,484 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:55:04,487 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:55:04,487 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources
+2016-03-08 22:55:16,966 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:55:16,967 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/main/resources
+2016-03-08 22:55:16,970 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-08 22:55:16,971 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramacaoIV/myException/src/test/resources

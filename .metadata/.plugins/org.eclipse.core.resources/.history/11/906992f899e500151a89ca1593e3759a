@@ -27,7 +27,7 @@ class Cliente {
 	}
 
 	public String teste2() {
-		return "falha";
+		return "";
 	}
 
 }

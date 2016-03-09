@@ -12,7 +12,7 @@ public class cc52259769 {
 		try {
 
 			ClienteEspecial cliE = new ClienteEspecial();
-			cliE.cadastro(cliE.teste2());
+			cliE.cadastro(cliE.teste1());
 		} catch (Exception e) {
 			System.out.println("erro teste 2 " + e);
 		}
@@ -27,7 +27,7 @@ class Cliente {
 	}
 
 	public String teste2() {
-		return "falha";
+		return "";
 	}
 
 }
