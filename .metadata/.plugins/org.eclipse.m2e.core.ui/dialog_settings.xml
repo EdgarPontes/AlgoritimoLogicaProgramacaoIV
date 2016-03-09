@@ -25,15 +25,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="groupId">
+			<item value="br.com.tecnonoticias.usina"/>
 			<item value="br.com.tecnonoticias.ep2"/>
 			<item value="br.com.tecnonoticias.bucktSort"/>
 		</list>
 		<list key="package">
+			<item value="br.com.tecnonoticias.usina.Usina"/>
 			<item value="br.com.tecnonoticias.ep2.myException"/>
 			<item value="br.com.tecnonoticias.ep2.ep2"/>
 			<item value="br.com.tecnonoticias.bucktSort.BucktSort"/>
 		</list>
 		<list key="artifactId">
+			<item value="Usina"/>
 			<item value="myException"/>
 			<item value="ep2"/>
 			<item value="BucktSort"/>

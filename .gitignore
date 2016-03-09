@@ -1,3 +1,14 @@
 /.project
 /.classpath
 /bin
+.classpath
+*.class
+.project
+.metadata/
+.settings/
+RemoteSystemsTempFiles/
+target/
+*~
+*.iml
+.idea/
+.recommenders/
