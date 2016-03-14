@@ -6,11 +6,12 @@ INDEX VERSION 1.127+/media/edgar/Novo volume/faculdade/AlgoritimoLogicaProgramac
 392775124.index
 2008300573.index
 460152253.index
-2598035366.index
 1217183425.index
+2598035366.index
 989528713.index
-2470318084.index
+2575492348.index
 3712968213.index
+2470318084.index
 2606624747.index
 3542660237.index
 2426646370.index

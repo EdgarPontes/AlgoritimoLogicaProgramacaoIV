@@ -16,12 +16,15 @@
 <fullyQualifiedTypeName name="br.com.tecnonoticias.myException.Cliente"/>
 <fullyQualifiedTypeName name="br.com.tecnonoticias.myException.ClienteComum"/>
 <fullyQualifiedTypeName name="java.awt.Transparency"/>
-<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
-<fullyQualifiedTypeName name="br.com.tecnonoticias.usina.Usina.SistemaSeguranca1"/>
 <fullyQualifiedTypeName name="java.lang.Throwable"/>
-<fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
 <fullyQualifiedTypeName name="java.lang.ExceptionInInitializerError"/>
 <fullyQualifiedTypeName name="br.com.tecnonoticias.usina.Usina.SistemaSeguraca"/>
 <fullyQualifiedTypeName name="java.lang.Error"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
+<fullyQualifiedTypeName name="br.com.tecnonoticias.usina.Usina.SistemaSeguranca1"/>
+<fullyQualifiedTypeName name="br.com.tecnonoticias.usina.Usina.SistemaSeguranca2"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="br.com.tecnonoticias.usina.Usina.SistemaSeguranca4"/>
+<fullyQualifiedTypeName name="br.com.tecnonoticias.usina.Usina.SistemaSeguranca5"/>
 </qualifiedTypeNameHistroy>
