@@ -23,6 +23,7 @@ public class Cc52259769 {
 		System.out.println("A potencia maxima do microondas padrão é: "+mPadrao.potenciaMaxima);
 		
 		Economoco mEconomico = new Economoco();
+		System.out.println(mEconomico.pesarPeixes("peixe"));
 		System.out.println("O tempo maxima de cozimento do microondas economico é: "+mEconomico.tempoMaxiomodeCozimneot);
 		
 		Potente mPotente = new Potente();
@@ -62,7 +63,9 @@ class Padrao {
 abstract class NovaFuncao extends Padrao {
 	public abstract int pesarCarnes(String string);
 
-	public abstract int pesarPeixes(String string);
+	public int pesarPeixes(String string){
+		return 1;
+	}
 
 	public abstract int pesarAves(String string);
 }
@@ -78,15 +81,14 @@ class Economoco extends NovaFuncao {
 		return 0;
 	}
 
-	@Override
-	public int pesarPeixes(String string) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+//	public int pesarPeixes(String string) {
+//		// TODO Auto-generated method stub
+//		return 0;
+//	}
 
 	@Override
 	public int pesarAves(String string) {
-		return 1;
+		return 0;
 	}
 }
 
@@ -95,14 +97,9 @@ interface NovaFucao{
 	public abstract int superTostado(String string);
 }
 
-class Potente implements NovaFucao{
-	public int cozimentoBaixo(String string) {
+class Potente extends Padrao implements NovaFucao{
+	public int cozimentoAlto(String string) {
 		return 1;
-	}
-
-	public char[] cozinhar(String string) {
-		// TODO Auto-generated method stub
-		return null;
 	}
 
 	public int superDescongelante(String string) {
