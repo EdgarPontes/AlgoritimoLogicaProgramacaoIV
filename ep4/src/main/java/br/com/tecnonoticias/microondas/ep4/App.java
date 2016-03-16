@@ -1,4 +1,4 @@
-package br.com.tecnonoticias.ep2.myException;
+package br.com.tecnonoticias.microondas.ep4;
 
 /**
  * Hello world!

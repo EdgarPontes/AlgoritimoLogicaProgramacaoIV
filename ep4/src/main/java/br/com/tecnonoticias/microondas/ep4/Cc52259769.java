@@ -1,4 +1,4 @@
-package br.com.tecnonoticias.usina.ep4;
+package br.com.tecnonoticias.microondas.ep4;
 
 /*
  *Uma empresa de micro-ondas pretende lançar no mercado três modelos de um novo produto. 
@@ -80,11 +80,6 @@ class Economoco extends NovaFuncao {
 		// TODO Auto-generated method stub
 		return 0;
 	}
-
-//	public int pesarPeixes(String string) {
-//		// TODO Auto-generated method stub
-//		return 0;
-//	}
 
 	@Override
 	public int pesarAves(String string) {
