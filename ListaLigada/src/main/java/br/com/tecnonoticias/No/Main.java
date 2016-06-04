@@ -11,7 +11,7 @@ public class Main {
 
 		No startNo = new No();
 		ListNo li = new ListNo();
-		int cont = (int) (Math.random() * 1000);
+		int cont = (int) (Math.random() * 50);
 
 		for (int i = 0; i < cont; i++) {
 
@@ -21,7 +21,7 @@ public class Main {
 
 		System.out.println(li.readList(startNo));
 
-		cont = (int) (Math.random() * 1000);
+		cont = (int) (Math.random() * 50);
 
 		for (int i = 0; i < cont; i++) {
 
