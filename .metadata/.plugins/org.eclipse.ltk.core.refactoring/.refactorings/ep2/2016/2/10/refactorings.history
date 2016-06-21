@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;coor&apos; in &apos;br.com.tecnonoticias.ep2.ep2.Cc52259769.lerArquivo.lendoArquivo()&apos; to &apos;operacao&apos;&#x0A;- Original project: &apos;ep2&apos;&#x0A;- Original element: &apos;br.com.tecnonoticias.ep2.ep2.Cc52259769.lerArquivo.lendoArquivo().coor&apos;&#x0A;- Renamed element: &apos;coor&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;coor&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java&lt;br.com.tecnonoticias.ep2.ep2{Cc52259769.java[Cc52259769[lerArquivo~lendoArquivo@coor!493!558!502!505!\[QString;!0!false" name="operacao" references="true" stamp="1456712905411" version="1.0"/>
-</session>
