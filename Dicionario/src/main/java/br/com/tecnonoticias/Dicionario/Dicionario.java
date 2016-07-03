@@ -1,10 +1,10 @@
 package br.com.tecnonoticias.Dicionario;
 
 import java.io.BufferedReader;
-import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.Set;
@@ -15,7 +15,6 @@ public class Dicionario {
     
     public static void main(String[] args) {
         
-        File fl = new File("/media/edgar/45D33C19493C7BD8/workspace/AlgoritimoLogicaProgramacaoIV/Dicionario/src/input");
         String line = "";
         String key = "";
         ArrayList<String> arrayString = new ArrayList<>();
@@ -24,7 +23,10 @@ public class Dicionario {
         
         try {
             
-            BufferedReader br = new BufferedReader(new FileReader(fl));
+        	FileInputStream entrada;
+        	entrada = new FileInputStream("input");
+        	InputStreamReader entradaFormatada = new InputStreamReader(entrada);
+            BufferedReader br = new BufferedReader(entradaFormatada);
             
             while (br.ready()) {
                 
